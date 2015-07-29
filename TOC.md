@@ -1,4 +1,6 @@
 - 目录
+ - [关于](README.md)
+ - [作者简介](author.md)
  - [第一章 简介和安装](introduction.md)
  - [第二章 第一个程序 HelloWorld](helloword.md)
  - [第三章 选择元素和绑定数据](selection.md)
