@@ -146,8 +146,8 @@ svg.selectAll("rect")
 
 ## 源代码
 
-下载地址：[rm30.zip](http://www.ourd3js.com/src/rm/rm30.zip)
+下载地址：[rm40.zip](http://www.ourd3js.com/src/rm/rm40.zip)
 
-展示地址：[http://www.ourd3js.com/demo/rm/R-3.0/MakeChart.html](http://www.ourd3js.com/demo/rm/R-3.0/MakeChart.html)
+展示地址：[http://www.ourd3js.com/demo/rm/R-4.0/UseScaleInChart.html](http://www.ourd3js.com/demo/rm/R-4.0/UseScaleInChart.html)
 
 
