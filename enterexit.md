@@ -2,7 +2,7 @@
 
 Update、Enter、Exit 是 D3 中三个非常重要的概念，它处理的是当选择集和数据的数量关系不确定的情况。
 
-![柱形图](./images/enterexit-1.png)
+![选择集与数据](./images/enterexit-1.png)
 
 ## 什么是 Update、Enter、Exit
 
@@ -25,7 +25,7 @@ svg.selectAll("rect")   //选择svg内所有的矩形
 
 如果数组为 [3, 6, 9, 12, 15]，将此数组绑定到三个 p 元素的选择集上。可以想象，会有三个数据没有元素与之对应，这时候 D3 会建立两个空的元素与数据对应，这一部分就称为 **Enter**。而有元素与数据对应的部分称为 **Update**。如果数组为 [3]，则会有两个元素没有数据绑定，那么没有数据绑定的部分被称为 **Exit**。示意图如下所示。
 
-![柱形图](./images/enterexit-2.png)
+![update,enter,exit](./images/enterexit-2.png)
 
 看到这，我想大家能体会到为什么本节最开始处的代码能够给 SVG 内添加足够数量的元素了吧。它的意思其实是：
 
@@ -63,7 +63,7 @@ enter.append("p")
 
 结果如下图，update 部分和 enter 部分被绑定的数据很清晰地表示了出来。
 
-![柱形图](./images/enterexit-3.png)
+![update和enter](./images/enterexit-3.png)
 
 请大家记住：
 
@@ -104,7 +104,7 @@ exit.text(function(d){
 
 结果如下，请大家区分好 update 部分和 exit 部分。这里为了表明哪一部分是 exit，并没有删除掉多余的元素，但实际上 exit 部分的绝大部分操作是删除。
 
-![柱形图](./images/enterexit-4.png)
+![update和exit](./images/enterexit-4.png)
 
 请大家记住：
 
