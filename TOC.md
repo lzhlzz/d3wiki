@@ -7,3 +7,4 @@
 - [第六章 比例尺的使用](scale.md)
 - [第七章 坐标轴](axis.md)
 - [第八章 完整的柱形图](chart.md)
+- [第九章 让图表动起来](transition.md)
