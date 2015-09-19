@@ -146,6 +146,6 @@ tick 的英文意思是钟表发出的嘀嗒嘀嗒声，想到这个大家应该
 
 ## 源代码
 
-下载地址：[rm80.zip](http://www.ourd3js.com/src/rm/rm92.zip)
+下载地址：[rm92.zip](http://www.ourd3js.com/src/rm/rm92.zip)
 
 展示地址：[http://www.ourd3js.com/demo/rm/R-9.2/force.html](http://www.ourd3js.com/demo/rm/R-9.2/force.html)
