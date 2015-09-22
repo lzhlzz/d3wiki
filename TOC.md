@@ -3,7 +3,7 @@
 - [第二章 第一个程序 HelloWorld](helloword.md)
 - [第三章 选择元素和绑定数据](selection.md)
 - [第四章 选择、插入、删除元素](select.md)
-- [第五章 做一个简单的图表！](select.md)
+- [第五章 做一个简单的图表！](makechart.md)
 - [第六章 比例尺的使用](scale.md)
 - [第七章 坐标轴](axis.md)
 - [第八章 完整的柱形图](chart.md)
