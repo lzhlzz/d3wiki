@@ -2,11 +2,7 @@
 
 柱形图是一种最简单的可视化图标，主要有矩形、文字标签、坐标轴组成。本文为简单起见，只绘制矩形的部分，用以讲解如何使用 D3 在 SVG 画布中绘图。
 
-<<<<<<< HEAD
 ![柱形图](images/makechart-1.png)
-=======
-![柱形图](./images/makechart-1.png)
->>>>>>> origin/master
 
 ## 画布是什么
 
@@ -134,10 +130,5 @@ svg.selectAll("rect")   //选择svg内所有的矩形
 
 下载地址：[rm30.zip](http://www.ourd3js.com/src/rm/rm30.zip)
 
-<<<<<<< HEAD
-展示地址：[http://www.ourd3js.com/demo/rm/R-3.0/MakeChart.html](http://www.ourd3js.com/demo/rm/R-3.0/MakeChart.html)
-=======
 展示地址：[http://www.ourd3js.com/demo/rm/R-3.0/MakeChart.html](http://www.ourd3js.com/demo/rm/R-3.0/MakeChart.html)
 
-
->>>>>>> origin/master
