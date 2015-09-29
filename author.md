@@ -8,6 +8,10 @@
 2014 年与好友创办 [OUR D3.JS 数据可视化专题站](http://www.ourd3js.com/)，以 D3.js 为题发表一系列教学文章，获得读者好评。
 本教程即以专题站的文章为基础，整理简化而成。
 
+## 内容撰写
+
+[https://github.com/lzhlzz/d3wiki/](https://github.com/lzhlzz/d3wiki/)
+
 ## 版权许可
 
 本教程首发于 [OUR D3.JS](http://www.ourd3js.com/)，经作者同意，授权给极客学院转载。
