@@ -82,7 +82,7 @@
 
 接下来改变字体的颜色和大小，稍微修改上述代码：
 
-```html
+```javascript
 //选择<body>中所有的<p>，其文本内容为 www.ourd3js.com，选择集保存在变量 p 中
 var p = d3.select("body")
           .selectAll("p")
@@ -91,7 +91,7 @@ var p = d3.select("body")
 //修改段落的颜色和字体大小
 p.style("color","red")
  .style("font-size","72px");
- ```
+```
 
 上面的代码是先将选中的元素赋值给变量 p，然后通过变量 p 来改变样式，这样可以使代码更整洁。
 
